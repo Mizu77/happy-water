@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name="hint_id">Please enter birthday</string>
+    <string name="calculate">Calculate</string>
+    <string name = "dob">MM/DD/YYYY</string>
+    <string name = "prompt">Put your birthday to calculate your age.</string>
+</resources>
